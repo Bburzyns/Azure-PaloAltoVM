@@ -1,4 +1,4 @@
-version of the AzureRM Provider
+#version of the AzureRM Provider
 terraform {
   required_providers {
     azurerm = {
